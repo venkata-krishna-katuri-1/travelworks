@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f7f7f7;
-    background-image:url("/background.jpg");
+    background-image:url("background.jpg");
     backdrop-filter:blur(2px);
     background-size: cover;
     margin: 10PX;
@@ -82,7 +82,7 @@ h1 {
    font-style:italic;
    font-weight: 900;
    font-size: 50px;
-   background-image: url("/kushiyatra.jpg");
+   background-image: url("kushiyatra.jpg");
    background-size: cover;
    background-clip: text;
    -webkit-background-clip: text;
@@ -93,7 +93,7 @@ h2{
     text-align: center;
     font-size:100px;
     margin: 0;
-    background-image: url("/travel.jpg");
+    background-image: url("travel.jpg");
     background-size: cover;
     background-clip: text;
     -webkit-background-clip: text;
