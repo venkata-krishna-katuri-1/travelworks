@@ -1,0 +1,15 @@
+<header>: Represents the header section of a webpage or a section within an article.
+<nav>: Represents a navigation menu.
+<main>: Represents the main content of a document.
+<article>: Represents a self-contained composition, such as a blog post, news story, or forum post.
+<section>: Represents a thematic grouping of content within a document.
+<aside>: Represents content that is tangentially related to the main content, such as sidebars or pull quotes.
+<footer>: Represents the footer section of a webpage or a section within an article.
+<figure>: Represents any content that is referenced from the main content, such as images, videos, or diagrams.
+<figcaption>: Represents a caption or description for a <figure> element.
+<blockquote>: Represents a quotation from another source.
+<q>: Represents a short inline quotation.
+<cite>: Represents the title of a creative work, such as a book, movie, or song.
+<abbr>: Represents an abbreviation or acronym.
+<address>: Represents contact information for the author/owner of a document.
+<time>: Represents a specific time or a range of time.

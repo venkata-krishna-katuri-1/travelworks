@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    background-image:url("/background.jpg");
+    backdrop-filter:blur(2px);
+    background-size: cover;
+    margin: 10PX;
+    padding: 5PX;
+}
+
+header {
+    background-color: #f9fcfb;
+    color: #f1ecf5;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    flex-flow:row;
+    width: 1200px;
+    border-radius: 30px;
+    margin:auto;
+    border: 5px solid black;
+    
+}
+
+nav {
+    background-color:#ba04f1; 
+    padding: 10px;
+    text-align: center;
+    width: 1000px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+    margin: auto;
+    border-radius: 10px;
+    color: #f3f3fb;
+}
+
+nav a {
+    font-size: 20px;
+    font-weight: 500;
+    color: #f3f3fb;
+    text-decoration: none;
+    margin: 0 15px; 
+    padding: 8px 12px; 
+    border-radius: 4px; 
+    transition: background-color 0.2s, color 0.2s; 
+}
+nav a:hover {
+    background-color:#ffffff;
+    color: #ba04f1;
+    text-decoration: none;
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+
+}
+
+#para1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 25px;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+}
+
+main {
+    width: 650px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+}
+
+h1 {
+   margin-left:300px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-style:italic;
+   font-weight: 900;
+   font-size: 50px;
+   background-image: url("/kushiyatra.jpg");
+   background-size: cover;
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;   
+}
+
+h2{
+    text-align: center;
+    font-size:100px;
+    margin: 0;
+    background-image: url("/travel.jpg");
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+p {
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #aa00ff;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
